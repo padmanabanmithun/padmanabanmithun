@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @padmanabanmithun
 - 👀 I’m interested in coding, ML, AI
-- 🌱 I’m currently learning python and ML
+- 🌱 I’m currently learning LLM and Gen AI
 - 📫 You can reach me @https://www.linkedin.com/in/mithunpadmanaban/
 
 <!---
